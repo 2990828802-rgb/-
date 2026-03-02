@@ -1,0 +1,5 @@
+{
+  "name": "AI Phone Simulator",
+  "description": "A realistic mobile phone simulation featuring customizable AI chat characters and API configuration.",
+  "requestFramePermissions": []
+}
